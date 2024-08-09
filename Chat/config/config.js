@@ -97,5 +97,5 @@ function saveSettings() {
 /* fechar */
 
 function redirectToChat() {
-  window.location.href = '../chat.html';
+  window.location.href = '/index.html'; /* O caminho está certo, porém está dando erro... não sei pq :( */
 }
