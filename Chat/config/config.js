@@ -97,5 +97,5 @@ function saveSettings() {
 /* fechar */
 
 function redirectToChat() {
-  window.location.href = '/index.html'; /* O caminho está certo, porém está dando erro... não sei pq :( */
+  window.location.href = '/Discord2'; /* /index.html - O caminho está certo, porém está dando erro... não sei pq :( */
 }
